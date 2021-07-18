@@ -39,3 +39,10 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
         run: starred --username Nabeelhassan --repository my-awesome-stars --sort --token ${GITHUB_TOKEN} --message 'stars update by github actions cron'
+        
+      - name: Markdown to HTML
+        uses: ZacJW/markdown-html-action@1.1.1
+        with:
+          input_files: '["README.md"]'
+          output_files: '["index.html"]'
+
