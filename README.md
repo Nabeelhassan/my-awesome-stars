@@ -53,6 +53,7 @@
 
 ## JavaScript 
 
+- [sequelize/sequelize](https://github.com/sequelize/sequelize) - An easy-to-use multi SQL dialect ORM tool for Node.js
 - [KoharaKazuya/marp-cli-action](https://github.com/KoharaKazuya/marp-cli-action) - A GitHub Action to convert markdown files into static HTML / CSS, PDF, PowerPoint document, and image(s) by @marp-team/marp-cli.
 - [berstend/puppeteer-extra](https://github.com/berstend/puppeteer-extra) - 💯  Teach puppeteer new tricks through plugins.
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
