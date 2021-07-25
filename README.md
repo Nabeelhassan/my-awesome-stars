@@ -153,7 +153,7 @@
 - [thomasdondorf/puppeteer-cluster](https://github.com/thomasdondorf/puppeteer-cluster) - Puppeteer Pool, run a cluster of instances in parallel
 - [maximegris/angular-electron](https://github.com/maximegris/angular-electron) - Ultra-fast bootstrapping with Angular and Electron (Typescript + SASS + Hot Reload) :speedboat:
 - [angular/components](https://github.com/angular/components) - Component infrastructure and Material Design components for Angular
-- [panacloud/bootcamp-2021](https://github.com/panacloud/bootcamp-2021) - Become a Participant of the API Economy
+- [panacloud/bootcamp-2021](https://github.com/panacloud/bootcamp-2021) - Become a Certified Unicorn Developer and Participant in the API Token Economy
 - [opensearch-project/OpenSearch-Dashboards](https://github.com/opensearch-project/OpenSearch-Dashboards) - Open source visualization dashboards for OpenSearch.
 - [trungk18/angular-spotify](https://github.com/trungk18/angular-spotify) - Spotify client built with Angular 12, Nx Workspace, ngrx, TailwindCSS and ng-zorro
 - [maxime1992/angular-ngrx-starter](https://github.com/maxime1992/angular-ngrx-starter) - An opiniated Angular setup based on @angular/cli to kickstart an ngrx project
