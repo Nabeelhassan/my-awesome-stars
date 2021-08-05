@@ -26,6 +26,7 @@
 
 ## C++ 
 
+- [openai/triton](https://github.com/openai/triton) - Development repository for the Triton language and compiler
 - [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - Windows Package Manager CLI (aka winget)
 - [dogecoin/dogecoin](https://github.com/dogecoin/dogecoin) - very currency
 
@@ -55,6 +56,8 @@
 
 ## JavaScript 
 
+- [saviomartin/slickr](https://github.com/saviomartin/slickr) - Enjoy creating cover image for your hashnode blog like never before, get started in seconds 🎉
+- [testing-library/svelte-testing-library](https://github.com/testing-library/svelte-testing-library) - :chipmunk: Simple and complete Svelte DOM testing utilities that encourage good testing practices
 - [disease-sh/API](https://github.com/disease-sh/API) - API for Current cases and more stuff about COVID-19 and Influenza
 - [gologinapp/gologin](https://github.com/gologinapp/gologin) - REST API provides programmatic access to GoLogin App. Create a new browser profile, get a list of all browser profiles, add a browser profile and runnig
 - [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - :green_book: SheetJS Community Edition -- Spreadsheet Data Toolkit
