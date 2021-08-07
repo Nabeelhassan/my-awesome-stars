@@ -160,6 +160,7 @@
 
 ## SCSS 
 
+- [creativetimofficial/material-dashboard-angular2](https://github.com/creativetimofficial/material-dashboard-angular2) - Material Dashboard Angular
 - [creativetimofficial/light-bootstrap-dashboard-react](https://github.com/creativetimofficial/light-bootstrap-dashboard-react) - React version of Light Bootstrap Dashboard
 
 ## Shell 
@@ -178,6 +179,7 @@
 
 ## TypeScript 
 
+- [akveo/ngx-admin](https://github.com/akveo/ngx-admin) - Customizable admin dashboard template based on Angular 10+
 - [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Stat Trophies  on your readme
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 - [trungk18/jira-clone-angular](https://github.com/trungk18/jira-clone-angular) - A simplified Jira clone built with Angular, ng-zorro and Akita
@@ -213,7 +215,7 @@
 
 ## WebAssembly 
 
-- [AssemblyScript/assemblyscript](https://github.com/AssemblyScript/assemblyscript) - Definitely not a TypeScript to WebAssembly compiler 🚀
+- [AssemblyScript/assemblyscript](https://github.com/AssemblyScript/assemblyscript) - A TypeScript-like language for WebAssembly.
 
 
 ## License
