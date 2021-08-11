@@ -17,6 +17,7 @@
   - [Others](#others)
   - [PHP](#php)
   - [Python](#python)
+  - [Ruby](#ruby)
   - [Rust](#rust)
   - [SCSS](#scss)
   - [Scala](#scala)
@@ -158,6 +159,10 @@
 - [datasets/covid-19](https://github.com/datasets/covid-19) - Novel Coronavirus 2019 time series data on cases
 - [microsoft/nlp-recipes](https://github.com/microsoft/nlp-recipes) - Natural Language Processing Best Practices & Examples
 - [sebastianruder/NLP-progress](https://github.com/sebastianruder/NLP-progress) - Repository to track the progress in Natural Language Processing (NLP), including the datasets and the current state-of-the-art for the most common NLP tasks.
+
+## Ruby 
+
+- [quran/quran.com-api](https://github.com/quran/quran.com-api) - Quran.com api
 
 ## Rust 
 
