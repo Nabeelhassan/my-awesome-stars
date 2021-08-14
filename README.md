@@ -200,6 +200,7 @@
 
 ## TypeScript 
 
+- [kgotgit/ng-beehive-monorepo](https://github.com/kgotgit/ng-beehive-monorepo) - This project used for medium article to setup angular workspace with multiple sub-projects
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
 - [akveo/ngx-admin](https://github.com/akveo/ngx-admin) - Customizable admin dashboard template based on Angular 10+
