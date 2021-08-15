@@ -46,6 +46,7 @@
 
 ## Go 
 
+- [sony/sonyflake](https://github.com/sony/sonyflake) - A distributed unique ID generator inspired by Twitter's Snowflake
 - [achannarasappa/ticker](https://github.com/achannarasappa/ticker) - Terminal stock ticker with live updates and position tracking
 - [slackhq/nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
 
@@ -65,6 +66,7 @@
 
 ## JavaScript 
 
+- [tngoman/Store-POS](https://github.com/tngoman/Store-POS) - Point of Sale Desktop App built with Electron
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals) - Essential metrics for a healthy site.
 - [tulios/kafkajs](https://github.com/tulios/kafkajs) - A modern Apache Kafka client for node.js
@@ -155,6 +157,7 @@
 
 ## Python 
 
+- [frappe/erpnext](https://github.com/frappe/erpnext) - World's best free and open source ERP.
 - [SamSchott/maestral](https://github.com/SamSchott/maestral) - Open-source Dropbox client for macOS and Linux
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [Jefferson-Henrique/GetOldTweets-python](https://github.com/Jefferson-Henrique/GetOldTweets-python) - A project written in Python to get old tweets, it bypass some limitations of Twitter Official API.
