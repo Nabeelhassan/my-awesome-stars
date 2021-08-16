@@ -66,6 +66,9 @@
 
 ## JavaScript 
 
+- [agazinakou/AngularPos](https://github.com/agazinakou/AngularPos) - A real-time, simple web Point of Sale system written with Angular 8, Firebase (Cloud Firestore), Strapi, Bootstrap 4
+- [bailabs/tailpos](https://github.com/bailabs/tailpos) - TailPOS  an Offline First Open Source POS for ERPNext
+- [song940/node-escpos](https://github.com/song940/node-escpos) - 🖨️ ESC/POS Printer driver for node
 - [tngoman/Store-POS](https://github.com/tngoman/Store-POS) - Point of Sale Desktop App built with Electron
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals) - Essential metrics for a healthy site.
@@ -164,7 +167,7 @@
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Natural Language Processing for Pytorch, TensorFlow, and JAX.
-- [GamestonkTerminal/GamestonkTerminal](https://github.com/GamestonkTerminal/GamestonkTerminal) - A FOSS alternative to Bloomberg Terminal.
+- [GamestonkTerminal/GamestonkTerminal](https://github.com/GamestonkTerminal/GamestonkTerminal) - Investment Research for Everyone.
 - [owid/covid-19-data](https://github.com/owid/covid-19-data) - Data on COVID-19 (coronavirus) cases, deaths, hospitalizations, tests • All countries • Updated daily by Our World in Data
 - [datasets/covid-19](https://github.com/datasets/covid-19) - Novel Coronavirus 2019 time series data on cases
 - [microsoft/nlp-recipes](https://github.com/microsoft/nlp-recipes) - Natural Language Processing Best Practices & Examples
@@ -203,6 +206,8 @@
 
 ## TypeScript 
 
+- [Hubertformin/electron-pos-printer](https://github.com/Hubertformin/electron-pos-printer) - Electron 58mm thermal printer
+- [LalanaChami/Pharmacy-Mangment-System](https://github.com/LalanaChami/Pharmacy-Mangment-System) - 👨‍💻 :hospital: MEAN stack Pharmacy Management system.
 - [kgotgit/ng-beehive-monorepo](https://github.com/kgotgit/ng-beehive-monorepo) - This project used for medium article to setup angular workspace with multiple sub-projects
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
