@@ -53,7 +53,7 @@
 ## HTML 
 
 - [amyjko/foundations-of-information](https://github.com/amyjko/foundations-of-information) - A book to support the INFO 200 Intellectual Foundations of Information course.
-- [nopantsmonkey/initials-avatar](https://github.com/nopantsmonkey/initials-avatar) - Avatar of Name's Initials
+- [aamirshahx/initials-avatar](https://github.com/aamirshahx/initials-avatar) - Avatar of Name's Initials
 - [alexeygrigorev/data-science-interviews](https://github.com/alexeygrigorev/data-science-interviews) - Data science interview questions and answers
 
 ## Haskell 
