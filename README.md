@@ -206,6 +206,9 @@
 
 ## TypeScript 
 
+- [PacktPublishing/Angular-Cookbook](https://github.com/PacktPublishing/Angular-Cookbook) - Angular Cookbook, published by Packt
+- [PacktPublishing/TypeScript-4-Design-Patterns-and-Best-Practices](https://github.com/PacktPublishing/TypeScript-4-Design-Patterns-and-Best-Practices) - TypeScript 4 Design Patterns and Best Practices, published by Packt
+- [PacktPublishing/Angular-Projects-Second-Edition](https://github.com/PacktPublishing/Angular-Projects-Second-Edition) - Angular Projects - Second Edition, published by Packt
 - [Hubertformin/electron-pos-printer](https://github.com/Hubertformin/electron-pos-printer) - Electron 58mm thermal printer
 - [LalanaChami/Pharmacy-Mangment-System](https://github.com/LalanaChami/Pharmacy-Mangment-System) - 👨‍💻 :hospital: MEAN stack Pharmacy Management system.
 - [kgotgit/ng-beehive-monorepo](https://github.com/kgotgit/ng-beehive-monorepo) - This project used for medium article to setup angular workspace with multiple sub-projects
