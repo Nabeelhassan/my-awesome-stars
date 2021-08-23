@@ -139,6 +139,7 @@
 - [fgitpush/Top-Laravel-Interview-Questions-Wiki](https://github.com/fgitpush/Top-Laravel-Interview-Questions-Wiki) - Top Laravel Interview Questions & Answers
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2021
 - [humsha/USCorpus](https://github.com/humsha/USCorpus) - Urdu Summary Corpus and Software Tools Version 1.0
+- [GamestonkTerminal/GamestonkTerminal](https://github.com/GamestonkTerminal/GamestonkTerminal) - Investment Research for Everyone.
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 - [mirfan899/Urdu](https://github.com/mirfan899/Urdu) - Collection of Urdu datasets for POS, NER, and NLP tasks
 - [Nabeelhassan/Urdu](https://github.com/Nabeelhassan/Urdu) - Collection of Urdu datasets for POS, NER and NLP tasks
@@ -167,7 +168,6 @@
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Natural Language Processing for Pytorch, TensorFlow, and JAX.
-- [GamestonkTerminal/GamestonkTerminal](https://github.com/GamestonkTerminal/GamestonkTerminal) - Investment Research for Everyone.
 - [owid/covid-19-data](https://github.com/owid/covid-19-data) - Data on COVID-19 (coronavirus) cases, deaths, hospitalizations, tests • All countries • Updated daily by Our World in Data
 - [datasets/covid-19](https://github.com/datasets/covid-19) - Novel Coronavirus 2019 time series data on cases
 - [microsoft/nlp-recipes](https://github.com/microsoft/nlp-recipes) - Natural Language Processing Best Practices & Examples
