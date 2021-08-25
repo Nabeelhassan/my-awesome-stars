@@ -66,6 +66,7 @@
 
 ## JavaScript 
 
+- [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated interview preparation materials for busy engineers
 - [agazinakou/AngularPos](https://github.com/agazinakou/AngularPos) - A real-time, simple web Point of Sale system written with Angular 8, Firebase (Cloud Firestore), Strapi, Bootstrap 4
 - [bailabs/tailpos](https://github.com/bailabs/tailpos) - TailPOS  an Offline First Open Source POS for ERPNext
 - [song940/node-escpos](https://github.com/song940/node-escpos) - 🖨️ ESC/POS Printer driver for node
