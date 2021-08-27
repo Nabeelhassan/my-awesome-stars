@@ -133,6 +133,7 @@
 
 ## Others 
 
+- [streamich/awesome-styleguides](https://github.com/streamich/awesome-styleguides) - A curated list of UI styleguides — 😎💄
 - [cassidoo/getting-a-gig](https://github.com/cassidoo/getting-a-gig) - Guide for getting a gig as a tech student.
 - [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile) - 👩‍💻👨‍💻 Improve your README.md profile with these amazing badges.
 - [github/githubOCTO](https://github.com/github/githubOCTO) - 
