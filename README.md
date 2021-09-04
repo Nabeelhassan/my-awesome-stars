@@ -36,6 +36,7 @@
 
 ## CSS 
 
+- [agazinakou/AngularPos](https://github.com/agazinakou/AngularPos) - A real-time, simple web Point of Sale system written with Angular 12, Firebase (Cloud Firestore), Bootstrap 4 and PrimeNg
 - [BootstrapDash/Regal-Free-Bootstrap-Admin-Template](https://github.com/BootstrapDash/Regal-Free-Bootstrap-Admin-Template) - Free Bootstrap 4 Admin Template.
 - [bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days) - 50+ mini web projects using HTML, CSS & JS
 
@@ -66,7 +67,6 @@
 ## JavaScript 
 
 - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated interview preparation materials for busy engineers
-- [agazinakou/AngularPos](https://github.com/agazinakou/AngularPos) - A real-time, simple web Point of Sale system written with Angular 8, Firebase (Cloud Firestore), Strapi, Bootstrap 4
 - [bailabs/tailpos](https://github.com/bailabs/tailpos) - TailPOS  an Offline First Open Source POS for ERPNext
 - [song940/node-escpos](https://github.com/song940/node-escpos) - 🖨️ ESC/POS Printer driver for node
 - [tngoman/Store-POS](https://github.com/tngoman/Store-POS) - Point of Sale Desktop App built with Electron
