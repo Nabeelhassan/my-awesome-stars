@@ -180,6 +180,7 @@
 
 ## Rust 
 
+- [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
 - [denoland/deno](https://github.com/denoland/deno) - A secure JavaScript and TypeScript runtime
 
 ## SCSS 
