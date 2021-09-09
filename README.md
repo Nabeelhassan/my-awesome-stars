@@ -65,7 +65,7 @@
 
 ## JavaScript 
 
-- [iamrokt/prayer-cli](https://github.com/iamrokt/prayer-cli) - An intuitive Node.js CLI to show prayer times and hijri date
+- [roktcode/prayer-cli](https://github.com/roktcode/prayer-cli) - An intuitive Node.js CLI to show prayer times and hijri date
 - [kamranahmedse/brusher](https://github.com/kamranahmedse/brusher) - Create beautiful webpage backgrounds
 - [webtorrent/webtorrent-cli](https://github.com/webtorrent/webtorrent-cli) - WebTorrent, the streaming torrent client. For the command line.
 - [zachleat/speedlify](https://github.com/zachleat/speedlify) - Benchmark the web performance and accessibility of sites over time.
