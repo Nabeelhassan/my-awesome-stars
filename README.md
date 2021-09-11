@@ -161,7 +161,7 @@
 
 ## Python 
 
-- [frappe/erpnext](https://github.com/frappe/erpnext) - World's best free and open source ERP.
+- [frappe/erpnext](https://github.com/frappe/erpnext) - Free and Open Source Enterprise Resource Planning (ERP)
 - [SamSchott/maestral](https://github.com/SamSchott/maestral) - Open-source Dropbox client for macOS and Linux
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [Jefferson-Henrique/GetOldTweets-python](https://github.com/Jefferson-Henrique/GetOldTweets-python) - A project written in Python to get old tweets, it bypass some limitations of Twitter Official API.
