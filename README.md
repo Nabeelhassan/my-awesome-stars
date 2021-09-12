@@ -29,6 +29,7 @@
 
 ## C++ 
 
+- [microsoft/wslg](https://github.com/microsoft/wslg) - Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios
 - [openai/triton](https://github.com/openai/triton) - Development repository for the Triton language and compiler
 - [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - Windows Package Manager CLI (aka winget)
 - [dogecoin/dogecoin](https://github.com/dogecoin/dogecoin) - very currency
