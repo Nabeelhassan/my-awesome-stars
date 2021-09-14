@@ -15,6 +15,7 @@
   - [Java](#java)
   - [JavaScript](#javascript)
   - [Jupyter Notebook](#jupyter-notebook)
+  - [Less](#less)
   - [Others](#others)
   - [PHP](#php)
   - [Python](#python)
@@ -34,6 +35,7 @@
 
 ## C++ 
 
+- [Elanis/web-to-desktop-framework-comparison](https://github.com/Elanis/web-to-desktop-framework-comparison) - This repository was made to create an objective comparison of multiple framework that grant us to "transform" our web app to desktop application formats.
 - [microsoft/wslg](https://github.com/microsoft/wslg) - Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios
 - [openai/triton](https://github.com/openai/triton) - Development repository for the Triton language and compiler
 - [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - Windows Package Manager CLI (aka winget)
@@ -41,8 +43,10 @@
 
 ## CSS 
 
+- [mrholek/CoreUI-AngularJS](https://github.com/mrholek/CoreUI-AngularJS) - CoreUI AngularJS is free AngularJS admin template based on Bootstrap 4
 - [agazinakou/AngularPos](https://github.com/agazinakou/AngularPos) - A real-time, simple web Point of Sale system written with Angular 12, Firebase (Cloud Firestore), Bootstrap 4 and PrimeNg
 - [BootstrapDash/Regal-Free-Bootstrap-Admin-Template](https://github.com/BootstrapDash/Regal-Free-Bootstrap-Admin-Template) - Free Bootstrap 4 Admin Template.
+- [issaafalkattan/React-Landing-Page-Template](https://github.com/issaafalkattan/React-Landing-Page-Template) - A simple react one page landing page templates for startups/companies
 - [bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days) - 50+ mini web projects using HTML, CSS & JS
 
 ## CoffeeScript 
@@ -57,6 +61,7 @@
 
 ## HTML 
 
+- [BootstrapDash/StarAdmin-Free-Angular-Admin-Template](https://github.com/BootstrapDash/StarAdmin-Free-Angular-Admin-Template) - Star Admin Angular Admin is a free admin template based on Bootstrap 4 and Angular
 - [amyjko/foundations-of-information](https://github.com/amyjko/foundations-of-information) - A book to support the INFO 200 Intellectual Foundations of Information course.
 - [aamirshahx/initials-avatar](https://github.com/aamirshahx/initials-avatar) - Avatar of Name's Initials
 - [alexeygrigorev/data-science-interviews](https://github.com/alexeygrigorev/data-science-interviews) - Data science interview questions and answers
@@ -105,7 +110,6 @@
 - [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - :bathtub: Clean Code concepts adapted for JavaScript
 - [mgechev/github-contributors-list](https://github.com/mgechev/github-contributors-list) - Node.js script, which outputs all the contributors for given open GitHub project
 - [coreui/coreui-free-react-admin-template](https://github.com/coreui/coreui-free-react-admin-template) - CoreUI React is a free React admin template based on Bootstrap 5
-- [issaafalkattan/React-Landing-Page-Template](https://github.com/issaafalkattan/React-Landing-Page-Template) - A simple react one page landing page templates for startups/companies
 - [kamranahmedse/driver.js](https://github.com/kamranahmedse/driver.js) - A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page
 - [arackaf/mongo-graphql-starter](https://github.com/arackaf/mongo-graphql-starter) - Creates a fully functioning, performant GraphQL endpoint from an existing MongoDB. Supports middleware, and Mongo 4 transactions.
 - [ArtemGr/bounty](https://github.com/ArtemGr/bounty) - Bounty navigator
@@ -135,6 +139,10 @@
 - [github/covid19-dashboard](https://github.com/github/covid19-dashboard) - A site that displays up to date COVID-19 stats, powered by fastpages.
 - [google-research/google-research](https://github.com/google-research/google-research) - Google Research
 - [bertcarremans/air_pollution_forecasting](https://github.com/bertcarremans/air_pollution_forecasting) - 
+
+## Less 
+
+- [ng-alain/ng-alain](https://github.com/ng-alain/ng-alain) - NG-ZORRO admin panel front-end framework (surge mirror https://ng-alain-doc.surge.sh)
 
 ## Others 
 
@@ -191,6 +199,7 @@
 
 ## SCSS 
 
+- [ssunils/angularadmin](https://github.com/ssunils/angularadmin) - Free Angular 9 admin template - Demo
 - [creativetimofficial/material-dashboard-angular2](https://github.com/creativetimofficial/material-dashboard-angular2) - Material Dashboard Angular
 - [creativetimofficial/light-bootstrap-dashboard-react](https://github.com/creativetimofficial/light-bootstrap-dashboard-react) - React version of Light Bootstrap Dashboard
 
@@ -210,6 +219,9 @@
 
 ## TypeScript 
 
+- [NG-ZORRO/ng-zorro-antd](https://github.com/NG-ZORRO/ng-zorro-antd) - Angular UI Component Library based on Ant Design
+- [StartBootstrap/sb-admin-angular](https://github.com/StartBootstrap/sb-admin-angular) - A free, open source, Angular admin dashboard template, created by Start Bootstrap
+- [compodoc/compodoc](https://github.com/compodoc/compodoc) - :notebook_with_decorative_cover: The missing documentation tool for your Angular, Nest & Stencil application
 - [antvis/G2](https://github.com/antvis/G2) - 📊 A highly interactive data-driven visualization grammar for statistical charts.
 - [eggheadio/egghead-next](https://github.com/eggheadio/egghead-next) - The frontend for egghead.io.
 - [adisreyaj/compito](https://github.com/adisreyaj/compito) - Compito is a simple and easy to use project management application with support for Multiple orgs.
