@@ -25,6 +25,8 @@
   - [Scala](#scala)
   - [Shell](#shell)
   - [Svelte](#svelte)
+  - [Swift](#swift)
+  - [Tcl](#tcl)
   - [TypeScript](#typescript)
   - [Vue](#vue)
   - [WebAssembly](#webassembly)
@@ -72,10 +74,12 @@
 
 ## Java 
 
+- [apache/jmeter](https://github.com/apache/jmeter) - Apache JMeter
 - [signalapp/Signal-Android](https://github.com/signalapp/Signal-Android) - A private messenger for Android.
 
 ## JavaScript 
 
+- [addyosmani/puppeteer-webperf](https://github.com/addyosmani/puppeteer-webperf) - Automating Web Performance testing with Puppeteer 🎪
 - [roktcode/prayer-cli](https://github.com/roktcode/prayer-cli) - An intuitive Node.js CLI to show prayer times and hijri date
 - [kamranahmedse/brusher](https://github.com/kamranahmedse/brusher) - Create beautiful webpage backgrounds
 - [webtorrent/webtorrent-cli](https://github.com/webtorrent/webtorrent-cli) - WebTorrent, the streaming torrent client. For the command line.
@@ -217,6 +221,14 @@
 
 - [npmhub/npmhub](https://github.com/npmhub/npmhub) - 🔎 A browser extension to explore npm dependencies on GitHub repos
 
+## Swift 
+
+- [CodetrixStudio/CapacitorGoogleAuth](https://github.com/CodetrixStudio/CapacitorGoogleAuth) - Capacitor plugin for Google Auth. Lightweight & no dependencies.
+
+## Tcl 
+
+- [TPC-Council/HammerDB](https://github.com/TPC-Council/HammerDB) - HammerDB Database Load Testing and Benchmarking Tool
+
 ## TypeScript 
 
 - [NG-ZORRO/ng-zorro-antd](https://github.com/NG-ZORRO/ng-zorro-antd) - Angular UI Component Library based on Ant Design
@@ -234,7 +246,6 @@
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
 - [akveo/ngx-admin](https://github.com/akveo/ngx-admin) - Customizable admin dashboard template based on Angular 10+
-- [CodetrixStudio/CapacitorGoogleAuth](https://github.com/CodetrixStudio/CapacitorGoogleAuth) - Capacitor plugin for Google Auth. Lightweight & no dependencies.
 - [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Stat Trophies  on your readme
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 - [trungk18/jira-clone-angular](https://github.com/trungk18/jira-clone-angular) - A simplified Jira clone built with Angular, ng-zorro and Akita
