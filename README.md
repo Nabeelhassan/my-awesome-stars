@@ -198,6 +198,7 @@
 
 ## Rust 
 
+- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
 - [denoland/deno](https://github.com/denoland/deno) - A secure JavaScript and TypeScript runtime
 
@@ -231,6 +232,7 @@
 
 ## TypeScript 
 
+- [flatlogic/angular-material-admin](https://github.com/flatlogic/angular-material-admin) - Angular Material Admin Template built with Angular Material
 - [NG-ZORRO/ng-zorro-antd](https://github.com/NG-ZORRO/ng-zorro-antd) - Angular UI Component Library based on Ant Design
 - [StartBootstrap/sb-admin-angular](https://github.com/StartBootstrap/sb-admin-angular) - A free, open source, Angular admin dashboard template, created by Start Bootstrap
 - [compodoc/compodoc](https://github.com/compodoc/compodoc) - :notebook_with_decorative_cover: The missing documentation tool for your Angular, Nest & Stencil application
