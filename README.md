@@ -231,6 +231,7 @@
 
 ## TypeScript 
 
+- [mswjs/msw](https://github.com/mswjs/msw) - Seamless REST/GraphQL API mocking library for browser and Node.js.
 - [flatlogic/angular-material-admin](https://github.com/flatlogic/angular-material-admin) - Angular Material Admin Template built with Angular Material
 - [NG-ZORRO/ng-zorro-antd](https://github.com/NG-ZORRO/ng-zorro-antd) - Angular UI Component Library based on Ant Design
 - [StartBootstrap/sb-admin-angular](https://github.com/StartBootstrap/sb-admin-angular) - A free, open source, Angular admin dashboard template, created by Start Bootstrap
