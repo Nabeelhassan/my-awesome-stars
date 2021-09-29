@@ -79,6 +79,7 @@
 
 ## JavaScript 
 
+- [browserstack/playwright-browserstack](https://github.com/browserstack/playwright-browserstack) - Sample repo for Playwright samples with BrowserStack.
 - [addyosmani/puppeteer-webperf](https://github.com/addyosmani/puppeteer-webperf) - Automating Web Performance testing with Puppeteer 🎪
 - [kamranahmedse/brusher](https://github.com/kamranahmedse/brusher) - Create beautiful webpage backgrounds
 - [webtorrent/webtorrent-cli](https://github.com/webtorrent/webtorrent-cli) - WebTorrent, the streaming torrent client. For the command line.
