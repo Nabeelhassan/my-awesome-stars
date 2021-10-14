@@ -64,6 +64,7 @@
 
 ## HTML 
 
+- [creativetimofficial/notus-angular](https://github.com/creativetimofficial/notus-angular) - Notus Angular: Free Tailwind CSS UI Kit and Admin
 - [BootstrapDash/StarAdmin-Free-Angular-Admin-Template](https://github.com/BootstrapDash/StarAdmin-Free-Angular-Admin-Template) - Star Admin Angular Admin is a free admin template based on Bootstrap 4 and Angular
 - [amyjko/foundations-of-information](https://github.com/amyjko/foundations-of-information) - A book to support the INFO 200 Intellectual Foundations of Information course.
 - [aamirshahx/initials-avatar](https://github.com/aamirshahx/initials-avatar) - Avatar of Name's Initials
@@ -80,6 +81,7 @@
 
 ## JavaScript 
 
+- [ahmadawais/create-node-cli](https://github.com/ahmadawais/create-node-cli) - 📟 CLI to create new Node.js CLI applications in minutes not hours.
 - [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [browserstack/playwright-browserstack](https://github.com/browserstack/playwright-browserstack) - Sample repo for Playwright samples with BrowserStack.
 - [addyosmani/puppeteer-webperf](https://github.com/addyosmani/puppeteer-webperf) - Automating Web Performance testing with Puppeteer 🎪
