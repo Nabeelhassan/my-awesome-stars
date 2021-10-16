@@ -81,6 +81,8 @@
 
 ## JavaScript 
 
+- [iamturns/eslint-config-airbnb-typescript](https://github.com/iamturns/eslint-config-airbnb-typescript) - Airbnb's ESLint config with TypeScript support
+- [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 - [ahmadawais/create-node-cli](https://github.com/ahmadawais/create-node-cli) - 📟 CLI to create new Node.js CLI applications in minutes not hours.
 - [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [browserstack/playwright-browserstack](https://github.com/browserstack/playwright-browserstack) - Sample repo for Playwright samples with BrowserStack.
