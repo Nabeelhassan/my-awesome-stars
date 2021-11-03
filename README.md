@@ -58,6 +58,7 @@
 
 ## Go 
 
+- [MangoDB-io/MangoDB](https://github.com/MangoDB-io/MangoDB) - A truly Open Source MongoDB alternative
 - [sony/sonyflake](https://github.com/sony/sonyflake) - A distributed unique ID generator inspired by Twitter's Snowflake
 - [achannarasappa/ticker](https://github.com/achannarasappa/ticker) - Terminal stock ticker with live updates and position tracking
 - [slackhq/nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
@@ -81,6 +82,7 @@
 
 ## JavaScript 
 
+- [MangoDB-io/example](https://github.com/MangoDB-io/example) - MangoDB example.
 - [zotero/web-library](https://github.com/zotero/web-library) - 
 - [iamturns/eslint-config-airbnb-typescript](https://github.com/iamturns/eslint-config-airbnb-typescript) - Airbnb's ESLint config with TypeScript support
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
