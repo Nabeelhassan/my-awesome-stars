@@ -247,6 +247,7 @@
 
 ## TypeScript 
 
+- [waynegakuo/weather-forecast](https://github.com/waynegakuo/weather-forecast) - Weather Forecast app built using Angular, Tailwind CSS, OpenWeather API & HERE Geocoding API.
 - [HospitalRun/hospitalrun-frontend](https://github.com/HospitalRun/hospitalrun-frontend) - Frontend for HospitalRun
 - [pubkey/client-side-databases](https://github.com/pubkey/client-side-databases) - An implementation of the exact same app in Firestore, AWS Datastore, PouchDB, RxDB and WatermelonDB
 - [mswjs/msw](https://github.com/mswjs/msw) - Seamless REST/GraphQL API mocking library for browser and Node.js.
