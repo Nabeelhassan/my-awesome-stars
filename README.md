@@ -86,6 +86,7 @@
 
 ## JavaScript 
 
+- [vercel/pkg](https://github.com/vercel/pkg) - Package your Node.js project into an executable
 - [mozilla/pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
 - [MangoDB-io/example](https://github.com/MangoDB-io/example) - MangoDB example.
 - [zotero/web-library](https://github.com/zotero/web-library) - 
