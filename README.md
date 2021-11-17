@@ -195,6 +195,7 @@
 
 ## Python 
 
+- [rougier/scientific-visualization-book](https://github.com/rougier/scientific-visualization-book) - An open access book on scientific visualization using python and matplotlib
 - [frappe/erpnext](https://github.com/frappe/erpnext) - Free and Open Source Enterprise Resource Planning (ERP)
 - [SamSchott/maestral](https://github.com/SamSchott/maestral) - Open-source Dropbox client for macOS and Linux
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
@@ -210,6 +211,7 @@
 
 ## Ruby 
 
+- [citation-style-language/locales](https://github.com/citation-style-language/locales) - Official repository for Citation Style Language (CSL) locale files.
 - [quran/quran.com-api](https://github.com/quran/quran.com-api) - Quran.com api
 
 ## Rust 
