@@ -86,6 +86,7 @@
 
 ## JavaScript 
 
+- [Juris-M/citeproc-js](https://github.com/Juris-M/citeproc-js) - A JavaScript implementation of the Citation Style Language (CSL) https://citeproc-js.readthedocs.io
 - [vercel/pkg](https://github.com/vercel/pkg) - Package your Node.js project into an executable
 - [mozilla/pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
 - [MangoDB-io/example](https://github.com/MangoDB-io/example) - MangoDB example.
@@ -211,6 +212,7 @@
 
 ## Ruby 
 
+- [citation-style-language/styles](https://github.com/citation-style-language/styles) - Official repository for Citation Style Language (CSL) citation styles.
 - [citation-style-language/locales](https://github.com/citation-style-language/locales) - Official repository for Citation Style Language (CSL) locale files.
 - [quran/quran.com-api](https://github.com/quran/quran.com-api) - Quran.com api
 
