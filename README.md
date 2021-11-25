@@ -86,6 +86,8 @@
 
 ## JavaScript 
 
+- [addyosmani/critical](https://github.com/addyosmani/critical) - Extract & Inline Critical-path CSS in HTML pages
+- [addyosmani/critical-path-angular-demo](https://github.com/addyosmani/critical-path-angular-demo) - Above-the-fold CSS generation + inlining using Critical, Gulp & Angular
 - [GoogleChrome/lighthouse-ci](https://github.com/GoogleChrome/lighthouse-ci) - Automate running Lighthouse for every commit, viewing the changes, and preventing regressions
 - [Juris-M/citeproc-js](https://github.com/Juris-M/citeproc-js) - A JavaScript implementation of the Citation Style Language (CSL) https://citeproc-js.readthedocs.io
 - [vercel/pkg](https://github.com/vercel/pkg) - Package your Node.js project into an executable
