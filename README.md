@@ -255,6 +255,7 @@
 
 ## TypeScript 
 
+- [scullyio/scully](https://github.com/scullyio/scully) - The Static Site Generator for Angular apps
 - [gothinkster/angular-realworld-example-app](https://github.com/gothinkster/angular-realworld-example-app) - Exemplary real world application built with Angular
 - [johnpapa/shopathome](https://github.com/johnpapa/shopathome) - Choose from Angular, React, Svelte, and Vue applications with an Azure Functions API, that deploys to Azure Static Web Apps
 - [ixartz/Next-JS-Landing-Page-Starter-Template](https://github.com/ixartz/Next-JS-Landing-Page-Starter-Template) - 🚀 Free NextJS Landing Page Template written in Tailwind CSS 2.0 and TypeScript ⚡️ Made with developer experience first: Next.js 12 + TypeScript + ESLint + Prettier + Husky + Lint-Staged + VSCode + Netlify + PostCSS + Tailwind CSS
