@@ -62,7 +62,7 @@
 
 - [eatonphil/dbcore](https://github.com/eatonphil/dbcore) - Generate applications powered by your database.
 - [Shopify/toxiproxy](https://github.com/Shopify/toxiproxy) - :alarm_clock: :fire: A TCP proxy to simulate network and system conditions for chaos and resiliency testing
-- [MangoDB-io/MangoDB](https://github.com/MangoDB-io/MangoDB) - A truly Open Source MongoDB alternative
+- [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
 - [sony/sonyflake](https://github.com/sony/sonyflake) - A distributed unique ID generator inspired by Twitter's Snowflake
 - [achannarasappa/ticker](https://github.com/achannarasappa/ticker) - Terminal stock ticker with live updates and position tracking
 - [slackhq/nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
@@ -93,7 +93,7 @@
 - [Juris-M/citeproc-js](https://github.com/Juris-M/citeproc-js) - A JavaScript implementation of the Citation Style Language (CSL) https://citeproc-js.readthedocs.io
 - [vercel/pkg](https://github.com/vercel/pkg) - Package your Node.js project into an executable
 - [mozilla/pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
-- [MangoDB-io/example](https://github.com/MangoDB-io/example) - MangoDB example.
+- [FerretDB/example](https://github.com/FerretDB/example) - FerretDB example.
 - [zotero/web-library](https://github.com/zotero/web-library) - 
 - [iamturns/eslint-config-airbnb-typescript](https://github.com/iamturns/eslint-config-airbnb-typescript) - Airbnb's ESLint config with TypeScript support
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
