@@ -145,7 +145,7 @@
 - [chec/commercejs-nextjs-demo-store](https://github.com/chec/commercejs-nextjs-demo-store) - Commerce demo store built for the Jamstack. Built with Commerce.js, Next.js, and can be one-click deployed to Netlify. Includes product catalog, customer login, categories, variants, cart, checkout, payments (Stripe) order confirmation, and printable receipts.
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [bradtraversy/vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects) - Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
-- [microsoft/playwright](https://github.com/microsoft/playwright) - Node.js library to automate Chromium, Firefox and WebKit with a single API
+- [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [adrianhajdin/project_corona_tracker](https://github.com/adrianhajdin/project_corona_tracker) - This is a code repository for the corresponding YouTube video. In this tutorial, we are going to build and deploy a corona tracker application. Covered topics: React.js, Chart.js, Material UI, and much more.
 - [r-spacex/SpaceX-API](https://github.com/r-spacex/SpaceX-API) - :rocket: Open Source REST API for SpaceX launch, rocket, core, capsule, starlink, launchpad, and landing pad data.
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (December 2021)
@@ -177,7 +177,6 @@
 - [github/githubOCTO](https://github.com/github/githubOCTO) - 
 - [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
 - [fgitpush/Top-Laravel-Interview-Questions-Wiki](https://github.com/fgitpush/Top-Laravel-Interview-Questions-Wiki) - Top Laravel Interview Questions & Answers
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2021
 - [humsha/USCorpus](https://github.com/humsha/USCorpus) - Urdu Summary Corpus and Software Tools Version 1.0
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 - [mirfan899/Urdu](https://github.com/mirfan899/Urdu) - Collection of Urdu datasets for POS, NER, and NLP tasks
@@ -292,6 +291,7 @@
 - [panacloud/bootcamp-2021](https://github.com/panacloud/bootcamp-2021) - Become a Certified Unicorn Developer and Participant in the API Token Economy
 - [opensearch-project/OpenSearch-Dashboards](https://github.com/opensearch-project/OpenSearch-Dashboards) - 📊 Open source visualization dashboards for OpenSearch.
 - [trungk18/angular-spotify](https://github.com/trungk18/angular-spotify) - Spotify client built with Angular 12, Nx Workspace, ngrx, TailwindCSS and ng-zorro
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2021
 - [kamranahmedse/roadmap.sh](https://github.com/kamranahmedse/roadmap.sh) - Community driven roadmaps, articles and resources for developers
 - [maxime1992/angular-ngrx-starter](https://github.com/maxime1992/angular-ngrx-starter) - An opiniated Angular setup based on @angular/cli to kickstart an ngrx project
 - [avatsaev/angular-contacts-app-example](https://github.com/avatsaev/angular-contacts-app-example) - Full Stack Angular PWA example app with NgRx & NestJS
