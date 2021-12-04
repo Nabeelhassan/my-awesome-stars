@@ -177,6 +177,7 @@
 - [github/githubOCTO](https://github.com/github/githubOCTO) - 
 - [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
 - [fgitpush/Top-Laravel-Interview-Questions-Wiki](https://github.com/fgitpush/Top-Laravel-Interview-Questions-Wiki) - Top Laravel Interview Questions & Answers
+- [kamranahmedse/roadmap.sh](https://github.com/kamranahmedse/roadmap.sh) - Community driven roadmaps, articles and resources for developers
 - [humsha/USCorpus](https://github.com/humsha/USCorpus) - Urdu Summary Corpus and Software Tools Version 1.0
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 - [mirfan899/Urdu](https://github.com/mirfan899/Urdu) - Collection of Urdu datasets for POS, NER, and NLP tasks
@@ -205,7 +206,7 @@
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [Jefferson-Henrique/GetOldTweets-python](https://github.com/Jefferson-Henrique/GetOldTweets-python) - A project written in Python to get old tweets, it bypass some limitations of Twitter Official API.
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
-- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Natural Language Processing for Pytorch, TensorFlow, and JAX.
+- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [GamestonkTerminal/GamestonkTerminal](https://github.com/GamestonkTerminal/GamestonkTerminal) - Investment Research for Everyone.
 - [owid/covid-19-data](https://github.com/owid/covid-19-data) - Data on COVID-19 (coronavirus) cases, deaths, hospitalizations, tests • All countries • Updated daily by Our World in Data
 - [datasets/covid-19](https://github.com/datasets/covid-19) - Novel Coronavirus 2019 time series data on cases
@@ -292,7 +293,6 @@
 - [opensearch-project/OpenSearch-Dashboards](https://github.com/opensearch-project/OpenSearch-Dashboards) - 📊 Open source visualization dashboards for OpenSearch.
 - [trungk18/angular-spotify](https://github.com/trungk18/angular-spotify) - Spotify client built with Angular 12, Nx Workspace, ngrx, TailwindCSS and ng-zorro
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2021
-- [kamranahmedse/roadmap.sh](https://github.com/kamranahmedse/roadmap.sh) - Community driven roadmaps, articles and resources for developers
 - [maxime1992/angular-ngrx-starter](https://github.com/maxime1992/angular-ngrx-starter) - An opiniated Angular setup based on @angular/cli to kickstart an ngrx project
 - [avatsaev/angular-contacts-app-example](https://github.com/avatsaev/angular-contacts-app-example) - Full Stack Angular PWA example app with NgRx & NestJS
 - [maxime1992/pizza-sync](https://github.com/maxime1992/pizza-sync) - Pizza-Sync is a web app built on the frontend with angular, ngrx and on the backend with Nest. It let you and your friends/colleagues choose a pizza before placing a group order. Built using https://github.com/maxime1992/angular-ngrx-starter
