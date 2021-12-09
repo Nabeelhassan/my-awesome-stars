@@ -16,6 +16,7 @@
   - [JavaScript](#javascript)
   - [Jupyter Notebook](#jupyter-notebook)
   - [Less](#less)
+  - [Markdown](#markdown)
   - [Others](#others)
   - [PHP](#php)
   - [Python](#python)
@@ -139,7 +140,7 @@
 - [arackaf/mongo-graphql-starter](https://github.com/arackaf/mongo-graphql-starter) - Creates a fully functioning, performant GraphQL endpoint from an existing MongoDB. Supports middleware, and Mongo 4 transactions.
 - [ArtemGr/bounty](https://github.com/ArtemGr/bounty) - Bounty navigator
 - [super-cache-money/make-runnable](https://github.com/super-cache-money/make-runnable) - Call a node.js module's exports directly from the command line, with arguments.
-- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across +1000 social media \ websites (Detections are updated regularly by automated systems)
+- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across +1000 social  (Detections are updated regularly by automated systems)
 - [withastro/snowpack](https://github.com/withastro/snowpack) - ESM-powered frontend build tool. Instant, lightweight, unbundled development. ✌️
 - [NaturalIntelligence/fast-xml-parser](https://github.com/NaturalIntelligence/fast-xml-parser) - Validate XML, Parse XML to JS/JSON and vise versa, or parse XML to Nimn rapidly without C/C++ based libraries and no callback
 - [matthewhudson/current-device](https://github.com/matthewhudson/current-device) - The easiest way to write conditional CSS and/or JavaScript based on device operating system (iOS, Android, Blackberry, Windows, Firefox OS, MeeGo), orientation (Portrait vs. Landscape), and type (Tablet vs. Mobile).
@@ -169,12 +170,15 @@
 
 - [ng-alain/ng-alain](https://github.com/ng-alain/ng-alain) - NG-ZORRO admin panel front-end framework (surge mirror https://ng-alain-doc.surge.sh)
 
+## Markdown 
+
+- [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile) - 👩‍💻👨‍💻 Improve your README.md profile with these amazing badges.
+
 ## Others 
 
 - [kettanaito/naming-cheatsheet](https://github.com/kettanaito/naming-cheatsheet) - Comprehensive language-agnostic guidelines on variables naming. Home of the A/HC/LC pattern.
 - [streamich/awesome-styleguides](https://github.com/streamich/awesome-styleguides) - A curated list of UI styleguides — 😎💄
 - [cassidoo/getting-a-gig](https://github.com/cassidoo/getting-a-gig) - Guide for getting a gig as a tech student.
-- [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile) - 👩‍💻👨‍💻 Improve your README.md profile with these amazing badges.
 - [github/githubOCTO](https://github.com/github/githubOCTO) - 
 - [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
 - [fgitpush/Top-Laravel-Interview-Questions-Wiki](https://github.com/fgitpush/Top-Laravel-Interview-Questions-Wiki) - Top Laravel Interview Questions & Answers
