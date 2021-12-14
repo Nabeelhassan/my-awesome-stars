@@ -88,6 +88,7 @@
 
 ## JavaScript 
 
+- [thunlp/WantWords](https://github.com/thunlp/WantWords) - An open-source online reverse dictionary.
 - [medusajs/medusa](https://github.com/medusajs/medusa) - The open-source Shopify alternative ⚡️
 - [addyosmani/critical](https://github.com/addyosmani/critical) - Extract & Inline Critical-path CSS in HTML pages
 - [addyosmani/critical-path-angular-demo](https://github.com/addyosmani/critical-path-angular-demo) - Above-the-fold CSS generation + inlining using Critical, Gulp & Angular
@@ -147,7 +148,6 @@
 - [chec/commercejs-nextjs-demo-store](https://github.com/chec/commercejs-nextjs-demo-store) - Commerce demo store built for the Jamstack. Built with Commerce.js, Next.js, and can be one-click deployed to Netlify. Includes product catalog, customer login, categories, variants, cart, checkout, payments (Stripe) order confirmation, and printable receipts.
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [bradtraversy/vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects) - Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
-- [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [adrianhajdin/project_corona_tracker](https://github.com/adrianhajdin/project_corona_tracker) - This is a code repository for the corresponding YouTube video. In this tutorial, we are going to build and deploy a corona tracker application. Covered topics: React.js, Chart.js, Material UI, and much more.
 - [r-spacex/SpaceX-API](https://github.com/r-spacex/SpaceX-API) - :rocket: Open Source REST API for SpaceX launch, rocket, core, capsule, starlink, launchpad, and landing pad data.
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (December 2021)
@@ -308,6 +308,7 @@
 - [mgechev/ngrev](https://github.com/mgechev/ngrev) - Tool for reverse engineering of Angular applications
 - [vercel/virtual-event-starter-kit](https://github.com/vercel/virtual-event-starter-kit) - Open source demo that Next.js developers can clone, deploy, and fully customize for events.
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
+- [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [arjunyel/angular-spacex-graphql-codegen](https://github.com/arjunyel/angular-spacex-graphql-codegen) - 
 - [KoderLabs/ngx-device-detector](https://github.com/KoderLabs/ngx-device-detector) - An Angular v7+ library to detect the device, OS, and browser details.
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
