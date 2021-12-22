@@ -72,6 +72,7 @@
 
 ## HTML 
 
+- [airbnb/lottie](https://github.com/airbnb/lottie) - Lottie documentation for http://airbnb.io/lottie
 - [creativetimofficial/notus-angular](https://github.com/creativetimofficial/notus-angular) - Notus Angular: Free Tailwind CSS UI Kit and Admin
 - [BootstrapDash/StarAdmin-Free-Angular-Admin-Template](https://github.com/BootstrapDash/StarAdmin-Free-Angular-Admin-Template) - Star Admin Angular Admin is a free admin template based on Bootstrap 4 and Angular
 - [amyjko/foundations-of-information](https://github.com/amyjko/foundations-of-information) - A book to support the INFO 200 Intellectual Foundations of Information course.
