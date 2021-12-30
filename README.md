@@ -145,6 +145,7 @@
 - [super-cache-money/make-runnable](https://github.com/super-cache-money/make-runnable) - Call a node.js module's exports directly from the command line, with arguments.
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across +1000 social media \ websites
 - [withastro/snowpack](https://github.com/withastro/snowpack) - ESM-powered frontend build tool. Instant, lightweight, unbundled development. ✌️
+- [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 - [NaturalIntelligence/fast-xml-parser](https://github.com/NaturalIntelligence/fast-xml-parser) - Validate XML, Parse XML and Build XML rapidly without C/C++ based libraries and no callback.
 - [matthewhudson/current-device](https://github.com/matthewhudson/current-device) - The easiest way to write conditional CSS and/or JavaScript based on device operating system (iOS, Android, Blackberry, Windows, Firefox OS, MeeGo), orientation (Portrait vs. Landscape), and type (Tablet vs. Mobile).
 - [chec/commercejs-nextjs-demo-store](https://github.com/chec/commercejs-nextjs-demo-store) - Commerce demo store built for the Jamstack. Built with Commerce.js, Next.js, and can be one-click deployed to Netlify. Includes product catalog, customer login, categories, variants, cart, checkout, payments (Stripe) order confirmation, and printable receipts.
@@ -266,7 +267,7 @@
 - [scullyio/scully](https://github.com/scullyio/scully) - The Static Site Generator for Angular apps
 - [gothinkster/angular-realworld-example-app](https://github.com/gothinkster/angular-realworld-example-app) - Exemplary real world application built with Angular
 - [johnpapa/shopathome](https://github.com/johnpapa/shopathome) - Choose from Angular, React, Svelte, and Vue applications with an Azure Functions API, that deploys to Azure Static Web Apps
-- [ixartz/Next-JS-Landing-Page-Starter-Template](https://github.com/ixartz/Next-JS-Landing-Page-Starter-Template) - 🚀 Free NextJS Landing Page Template written in Tailwind CSS 2.0 and TypeScript ⚡️ Made with developer experience first: Next.js 12 + TypeScript + ESLint + Prettier + Husky + Lint-Staged + VSCode + Netlify + PostCSS + Tailwind CSS
+- [ixartz/Next-JS-Landing-Page-Starter-Template](https://github.com/ixartz/Next-JS-Landing-Page-Starter-Template) - 🚀 Free NextJS Landing Page Template written in Tailwind CSS 3 and TypeScript ⚡️ Made with developer experience first: Next.js 12 + TypeScript + ESLint + Prettier + Husky + Lint-Staged + VSCode + Netlify + PostCSS + Tailwind CSS
 - [rangle/angular-devtools](https://github.com/rangle/angular-devtools) - Chrome DevTools extension for debugging and profiling Angular applications.
 - [waynegakuo/weather-forecast](https://github.com/waynegakuo/weather-forecast) - Weather Forecast app built using Angular, Tailwind CSS, OpenWeather API & HERE Geocoding API.
 - [HospitalRun/hospitalrun-frontend](https://github.com/HospitalRun/hospitalrun-frontend) - Frontend for HospitalRun
@@ -306,7 +307,6 @@
 - [maxime1992/pizza-sync](https://github.com/maxime1992/pizza-sync) - Pizza-Sync is a web app built on the frontend with angular, ngrx and on the backend with Nest. It let you and your friends/colleagues choose a pizza before placing a group order. Built using https://github.com/maxime1992/angular-ngrx-starter
 - [ngrx/platform](https://github.com/ngrx/platform) - Reactive libraries for Angular
 - [GoogleChromeLabs/comlink](https://github.com/GoogleChromeLabs/comlink) - Comlink makes WebWorkers enjoyable.
-- [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [mgechev/ngrev](https://github.com/mgechev/ngrev) - Tool for reverse engineering of Angular applications
 - [vercel/virtual-event-starter-kit](https://github.com/vercel/virtual-event-starter-kit) - Open source demo that Next.js developers can clone, deploy, and fully customize for events.
