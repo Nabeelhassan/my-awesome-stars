@@ -50,6 +50,7 @@
 
 ## CSS 
 
+- [baldurbjarnason/book-tricks](https://github.com/baldurbjarnason/book-tricks) - A starting point for ebook creation
 - [csswizardry/ct](https://github.com/csswizardry/ct) - Let’s take a look inside your &lt;head&gt;…
 - [mrholek/CoreUI-AngularJS](https://github.com/mrholek/CoreUI-AngularJS) - CoreUI AngularJS is free AngularJS admin template based on Bootstrap 4
 - [agazinakou/AngularPos](https://github.com/agazinakou/AngularPos) - A real-time, simple web Point of Sale system written with Angular 12, Firebase (Cloud Firestore), Bootstrap 4 and PrimeNg
@@ -90,6 +91,7 @@
 
 ## JavaScript 
 
+- [adrianhajdin/project_web3.0](https://github.com/adrianhajdin/project_web3.0) - Web 3.0 React Solidity Blockchain Application
 - [timwoelfle/Local-Citation-Network](https://github.com/timwoelfle/Local-Citation-Network) - This web app aims to help scientists with their literature review visualizing reference-metadata from Microsoft Academic, Crossref and OpenCitations in local citation networks.
 - [thunlp/WantWords](https://github.com/thunlp/WantWords) - An open-source online reverse dictionary.
 - [medusajs/medusa](https://github.com/medusajs/medusa) - The open-source Shopify alternative ⚡️
@@ -181,6 +183,7 @@
 
 ## Others 
 
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [fgitpush/Top-Laravel-Interview-Questions-Wiki](https://github.com/fgitpush/Top-Laravel-Interview-Questions-Wiki) - Top Laravel Interview Questions & Answers
 - [kettanaito/naming-cheatsheet](https://github.com/kettanaito/naming-cheatsheet) - Comprehensive language-agnostic guidelines on variables naming. Home of the A/HC/LC pattern.
 - [streamich/awesome-styleguides](https://github.com/streamich/awesome-styleguides) - A curated list of UI styleguides — 😎💄
