@@ -91,7 +91,7 @@
 
 ## JavaScript 
 
-- [adrianhajdin/project_web3.0](https://github.com/adrianhajdin/project_web3.0) - Web 3.0 React Solidity Blockchain Application
+- [adrianhajdin/project_web3.0](https://github.com/adrianhajdin/project_web3.0) - This is a code repository for the corresponding video tutorial. In this video, we're going to build a Web 3.0 React Solidity Blockchain Application
 - [timwoelfle/Local-Citation-Network](https://github.com/timwoelfle/Local-Citation-Network) - This web app aims to help scientists with their literature review visualizing reference-metadata from Microsoft Academic, Crossref and OpenCitations in local citation networks.
 - [thunlp/WantWords](https://github.com/thunlp/WantWords) - An open-source online reverse dictionary.
 - [medusajs/medusa](https://github.com/medusajs/medusa) - The open-source Shopify alternative ⚡️
