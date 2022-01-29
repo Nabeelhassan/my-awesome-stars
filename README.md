@@ -26,7 +26,6 @@
   - [Scala](#scala)
   - [Shell](#shell)
   - [Svelte](#svelte)
-  - [Swift](#swift)
   - [Tcl](#tcl)
   - [TypeScript](#typescript)
   - [Vue](#vue)
@@ -87,6 +86,7 @@
 ## Java 
 
 - [apache/jmeter](https://github.com/apache/jmeter) - Apache JMeter
+- [CodetrixStudio/CapacitorGoogleAuth](https://github.com/CodetrixStudio/CapacitorGoogleAuth) - Capacitor plugin for Google Auth. Lightweight & no dependencies.
 - [signalapp/Signal-Android](https://github.com/signalapp/Signal-Android) - A private messenger for Android.
 
 ## JavaScript 
@@ -258,10 +258,6 @@
 ## Svelte 
 
 - [npmhub/npmhub](https://github.com/npmhub/npmhub) - 🔎 A browser extension to explore npm dependencies on GitHub repos
-
-## Swift 
-
-- [CodetrixStudio/CapacitorGoogleAuth](https://github.com/CodetrixStudio/CapacitorGoogleAuth) - Capacitor plugin for Google Auth. Lightweight & no dependencies.
 
 ## Tcl 
 
