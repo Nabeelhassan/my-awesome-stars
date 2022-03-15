@@ -184,6 +184,7 @@
 
 ## Others 
 
+- [mgechev/angular-performance-checklist](https://github.com/mgechev/angular-performance-checklist) - ⚡ Cheatsheet for developing lightning fast progressive Angular applications
 - [SMIT-Saylani/Modern-App-Api-Dev](https://github.com/SMIT-Saylani/Modern-App-Api-Dev) - Learn to Build Modern Full Stack Serverless Multi-Tenant SaaS Apps and APIs
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [fgitpush/Top-Laravel-Interview-Questions-Wiki](https://github.com/fgitpush/Top-Laravel-Interview-Questions-Wiki) - Top Laravel Interview Questions & Answers
