@@ -184,6 +184,7 @@
 
 ## Others 
 
+- [dineshkumares/info_extraction_receipts](https://github.com/dineshkumares/info_extraction_receipts) - scalable end-to-end extraction of information from receipts using OCR and semi-supervised GCNs
 - [mgechev/angular-performance-checklist](https://github.com/mgechev/angular-performance-checklist) - ⚡ Cheatsheet for developing lightning fast progressive Angular applications
 - [SMIT-Saylani/Modern-App-Api-Dev](https://github.com/SMIT-Saylani/Modern-App-Api-Dev) - Learn to Build Modern Full Stack Serverless Multi-Tenant SaaS Apps and APIs
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
