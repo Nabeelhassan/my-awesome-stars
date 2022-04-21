@@ -102,7 +102,7 @@
 - [Juris-M/citeproc-js](https://github.com/Juris-M/citeproc-js) - A JavaScript implementation of the Citation Style Language (CSL) https://citeproc-js.readthedocs.io
 - [vercel/pkg](https://github.com/vercel/pkg) - Package your Node.js project into an executable
 - [mozilla/pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
-- [FerretDB/example](https://github.com/FerretDB/example) - FerretDB example.
+- [FerretDB/example](https://github.com/FerretDB/example) - FerretDB example
 - [zotero/web-library](https://github.com/zotero/web-library) - 
 - [iamturns/eslint-config-airbnb-typescript](https://github.com/iamturns/eslint-config-airbnb-typescript) - Airbnb's ESLint config with TypeScript support
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
@@ -148,7 +148,7 @@
 - [ArtemGr/bounty](https://github.com/ArtemGr/bounty) - Bounty navigator
 - [super-cache-money/make-runnable](https://github.com/super-cache-money/make-runnable) - Call a node.js module's exports directly from the command line, with arguments.
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in +1000 social media \ websites
-- [withastro/snowpack](https://github.com/withastro/snowpack) - ESM-powered frontend build tool. Instant, lightweight, unbundled development. ✌️
+- [FredKSchott/snowpack](https://github.com/FredKSchott/snowpack) - ESM-powered frontend build tool. Instant, lightweight, unbundled development. ✌️
 - [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 - [NaturalIntelligence/fast-xml-parser](https://github.com/NaturalIntelligence/fast-xml-parser) - Validate XML, Parse XML and Build XML rapidly without C/C++ based libraries and no callback.
 - [matthewhudson/current-device](https://github.com/matthewhudson/current-device) - The easiest way to write conditional CSS and/or JavaScript based on device operating system (iOS, Android, Blackberry, Windows, Firefox OS, MeeGo), orientation (Portrait vs. Landscape), and type (Tablet vs. Mobile).
