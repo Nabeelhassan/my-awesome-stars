@@ -164,6 +164,7 @@
 
 ## Jupyter Notebook 
 
+- [DataTalksClub/data-engineering-zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) - Free Data Engineering course!
 - [dineshkumares/info_extraction_receipts](https://github.com/dineshkumares/info_extraction_receipts) - scalable end-to-end extraction of information from receipts using OCR and semi-supervised GCNs
 - [LibraryOfCongress/newspaper-navigator](https://github.com/LibraryOfCongress/newspaper-navigator) - 
 - [parthasarathy-ss/newspaper-navigator](https://github.com/parthasarathy-ss/newspaper-navigator) - 
@@ -184,6 +185,7 @@
 
 ## Others 
 
+- [ahmedtariq01/Cloud-DevOps-Learning-Resources](https://github.com/ahmedtariq01/Cloud-DevOps-Learning-Resources) - This repo includes Books and imp notes related to GCP, Azure, AWS, Docker, K8s, and DevOps. More, exam and interview prep notes.
 - [mgechev/angular-performance-checklist](https://github.com/mgechev/angular-performance-checklist) - ⚡ Cheatsheet for developing lightning fast progressive Angular applications
 - [SMIT-Saylani/Modern-App-Api-Dev](https://github.com/SMIT-Saylani/Modern-App-Api-Dev) - Learn to Build Modern Full Stack Serverless Multi-Tenant SaaS Apps and APIs
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
@@ -215,6 +217,7 @@
 
 ## Python 
 
+- [borisdayma/dalle-mini](https://github.com/borisdayma/dalle-mini) - DALL·E Mini - Generate images from a text prompt
 - [akashp1712/nlp-akash](https://github.com/akashp1712/nlp-akash) - Natural Language Processing notes and implementations.
 - [mindee/doctr](https://github.com/mindee/doctr) - docTR (Document Text Recognition) - a seamless, high-performing & accessible library for OCR-related tasks powered by Deep Learning.
 - [litl/backoff](https://github.com/litl/backoff) - Python library providing function decorators for configurable backoff and retry
@@ -255,6 +258,7 @@
 
 ## Shell 
 
+- [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [kamranahmedse/git-standup](https://github.com/kamranahmedse/git-standup) - Recall what you did on the last working day. Psst! or be nosy and find what someone else in your team did ;-)
 - [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
@@ -272,6 +276,7 @@
 
 ## TypeScript 
 
+- [nartc/ng-conduit](https://github.com/nartc/ng-conduit) - Realworld Conduit frontend application with Angular Standalone Components
 - [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐 A lightweight Node.js private proxy registry
 - [itswadesh/svelte-commerce](https://github.com/itswadesh/svelte-commerce) - Svelte ecommerce - Headless, Authentication, Cart & Checkout, TailwindCSS, Server Rendered, Proxy + API Integrated, Animations, Stores, Lazy Loading, Loading Indicators, Carousel, Instant Search, Face
 - [DonJayamanne/typescript-notebook](https://github.com/DonJayamanne/typescript-notebook) - Run JavaScript and TypeScript in node.js within VS Code notebooks with excellent support for debugging, tensorflowjs visulizations, plotly, danfojs, etc
