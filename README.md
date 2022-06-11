@@ -217,6 +217,9 @@
 
 ## Python 
 
+- [steinskeeper/fastapi-postgres-docker](https://github.com/steinskeeper/fastapi-postgres-docker) - FastAPI + Postgres + Docker Compose + Heroku Deploy Template
+- [askblaker/fastapi-docker-heroku](https://github.com/askblaker/fastapi-docker-heroku) - 
+- [xkritti/docker-fastapi-opencv-tesseract](https://github.com/xkritti/docker-fastapi-opencv-tesseract) - API ocr on electricity meter for dormitory (result is roomcode , unit of used) // deploy on Heroku
 - [borisdayma/dalle-mini](https://github.com/borisdayma/dalle-mini) - DALL·E Mini - Generate images from a text prompt
 - [akashp1712/nlp-akash](https://github.com/akashp1712/nlp-akash) - Natural Language Processing notes and implementations.
 - [mindee/doctr](https://github.com/mindee/doctr) - docTR (Document Text Recognition) - a seamless, high-performing & accessible library for OCR-related tasks powered by Deep Learning.
