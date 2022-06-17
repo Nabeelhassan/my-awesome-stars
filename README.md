@@ -48,6 +48,7 @@
 
 ## CSS 
 
+- [primefaces/primeng](https://github.com/primefaces/primeng) - The Most Complete Angular UI Component Library
 - [baldurbjarnason/book-tricks](https://github.com/baldurbjarnason/book-tricks) - A starting point for ebook creation
 - [csswizardry/ct](https://github.com/csswizardry/ct) - Let’s take a look inside your &lt;head&gt;…
 - [mrholek/CoreUI-AngularJS](https://github.com/mrholek/CoreUI-AngularJS) - CoreUI AngularJS is free AngularJS admin template based on Bootstrap 4
