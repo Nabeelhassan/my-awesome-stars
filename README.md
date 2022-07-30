@@ -74,6 +74,7 @@
 
 ## HTML 
 
+- [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 - [airbnb/lottie](https://github.com/airbnb/lottie) - Lottie documentation for http://airbnb.io/lottie
 - [creativetimofficial/notus-angular](https://github.com/creativetimofficial/notus-angular) - Notus Angular: Free Tailwind CSS UI Kit and Admin
 - [BootstrapDash/StarAdmin-Free-Angular-Admin-Template](https://github.com/BootstrapDash/StarAdmin-Free-Angular-Admin-Template) - Star Admin Angular Admin is a free admin template based on Bootstrap 4 and Angular
