@@ -301,7 +301,7 @@
 - [NG-ZORRO/ng-zorro-antd](https://github.com/NG-ZORRO/ng-zorro-antd) - Angular UI Component Library based on Ant Design
 - [StartBootstrap/sb-admin-angular](https://github.com/StartBootstrap/sb-admin-angular) - A free, open source, Angular admin dashboard template, created by Start Bootstrap
 - [compodoc/compodoc](https://github.com/compodoc/compodoc) - :notebook_with_decorative_cover: The missing documentation tool for your Angular, Nest & Stencil application
-- [antvis/G2](https://github.com/antvis/G2) - 📊 A highly interactive data-driven visualization grammar for statistical charts.
+- [antvis/G2](https://github.com/antvis/G2) - 📊 A visualization grammar for dashboard building, data exploration and storytelling.
 - [eggheadio/egghead-next](https://github.com/eggheadio/egghead-next) - The frontend for egghead.io.
 - [adisreyaj/compito](https://github.com/adisreyaj/compito) - Compito is a simple and easy to use project management application with support for Multiple orgs.
 - [PacktPublishing/Angular-Cookbook](https://github.com/PacktPublishing/Angular-Cookbook) - Angular Cookbook, published by Packt
