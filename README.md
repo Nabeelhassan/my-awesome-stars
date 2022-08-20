@@ -219,6 +219,7 @@
 
 ## Python 
 
+- [citation-style-language/schema](https://github.com/citation-style-language/schema) - Citation Style Language schema
 - [steinskeeper/fastapi-postgres-docker](https://github.com/steinskeeper/fastapi-postgres-docker) - FastAPI + Postgres + Docker Compose + Heroku Deploy Template
 - [askblaker/fastapi-docker-heroku](https://github.com/askblaker/fastapi-docker-heroku) - 
 - [xkritti/docker-fastapi-opencv-tesseract](https://github.com/xkritti/docker-fastapi-opencv-tesseract) - API ocr on electricity meter for dormitory (result is roomcode , unit of used) // deploy on Heroku
