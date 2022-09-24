@@ -89,7 +89,7 @@
 
 ## Java 
 
-- [apache/jmeter](https://github.com/apache/jmeter) - Apache JMeter
+- [apache/jmeter](https://github.com/apache/jmeter) - Apache JMeter open-source load testing tool for analyzing and measuring the performance of a variety of services
 - [CodetrixStudio/CapacitorGoogleAuth](https://github.com/CodetrixStudio/CapacitorGoogleAuth) - Capacitor plugin for Google Auth. Lightweight & no dependencies.
 - [signalapp/Signal-Android](https://github.com/signalapp/Signal-Android) - A private messenger for Android.
 
