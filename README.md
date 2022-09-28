@@ -332,7 +332,7 @@
 - [panacloud/bootcamp-2021](https://github.com/panacloud/bootcamp-2021) - Become a Certified Unicorn Developer and Participant in the API Token Economy
 - [opensearch-project/OpenSearch-Dashboards](https://github.com/opensearch-project/OpenSearch-Dashboards) - 📊 Open source visualization dashboards for OpenSearch.
 - [trungk18/angular-spotify](https://github.com/trungk18/angular-spotify) - Spotify client built with Angular 12, Nx Workspace, ngrx, TailwindCSS and ng-zorro
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Community effort to create roadmaps, guides and other educational content to help the developers get an idea about the software development landscape, learn and grow in their career.
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [maxime1992/angular-ngrx-starter](https://github.com/maxime1992/angular-ngrx-starter) - An opiniated Angular setup based on @angular/cli to kickstart an ngrx project
 - [avatsaev/angular-contacts-app-example](https://github.com/avatsaev/angular-contacts-app-example) - Full Stack Angular PWA example app with NgRx & NestJS
 - [maxime1992/pizza-sync](https://github.com/maxime1992/pizza-sync) - Pizza-Sync is a web app built on the frontend with angular, ngrx and on the backend with Nest. It let you and your friends/colleagues choose a pizza before placing a group order. Built using https://g
