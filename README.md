@@ -119,7 +119,6 @@
 - [kamranahmedse/brusher](https://github.com/kamranahmedse/brusher) - Create beautiful webpage backgrounds
 - [webtorrent/webtorrent-cli](https://github.com/webtorrent/webtorrent-cli) - WebTorrent, the streaming torrent client. For the command line.
 - [zachleat/speedlify](https://github.com/zachleat/speedlify) - Benchmark the web performance and accessibility of sites over time.
-- [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated coding interview preparation materials for busy software engineers
 - [bailabs/tailpos](https://github.com/bailabs/tailpos) - TailPOS  an Offline First Open Source POS for ERPNext
 - [tngoman/Store-POS](https://github.com/tngoman/Store-POS) - Point of Sale Desktop App built with Electron
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
@@ -310,6 +309,7 @@
 - [antvis/G2](https://github.com/antvis/G2) - 📊 A visualization grammar for dashboard building, data exploration and storytelling.
 - [eggheadio/egghead-next](https://github.com/eggheadio/egghead-next) - The frontend for egghead.io.
 - [adisreyaj/compito](https://github.com/adisreyaj/compito) - Compito is a simple and easy to use project management application with support for Multiple orgs.
+- [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated coding interview preparation materials for busy software engineers
 - [PacktPublishing/Angular-Cookbook](https://github.com/PacktPublishing/Angular-Cookbook) - Angular Cookbook, published by Packt
 - [PacktPublishing/TypeScript-4-Design-Patterns-and-Best-Practices](https://github.com/PacktPublishing/TypeScript-4-Design-Patterns-and-Best-Practices) - TypeScript 4 Design Patterns and Best Practices, published by Packt
 - [PacktPublishing/Angular-Projects-Second-Edition](https://github.com/PacktPublishing/Angular-Projects-Second-Edition) - Angular Projects - Second Edition, published by Packt
