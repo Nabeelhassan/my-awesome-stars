@@ -335,7 +335,7 @@
 - [maxime1992/angular-ngrx-starter](https://github.com/maxime1992/angular-ngrx-starter) - An opiniated Angular setup based on @angular/cli to kickstart an ngrx project
 - [avatsaev/angular-contacts-app-example](https://github.com/avatsaev/angular-contacts-app-example) - Full Stack Angular PWA example app with NgRx & NestJS
 - [maxime1992/pizza-sync](https://github.com/maxime1992/pizza-sync) - Pizza-Sync is a web app built on the frontend with angular, ngrx and on the backend with Nest. It let you and your friends/colleagues choose a pizza before placing a group order. Built using https://g
-- [ngrx/platform](https://github.com/ngrx/platform) - Reactive libraries for Angular
+- [ngrx/platform](https://github.com/ngrx/platform) - Reactive State for Angular
 - [GoogleChromeLabs/comlink](https://github.com/GoogleChromeLabs/comlink) - Comlink makes WebWorkers enjoyable.
 - [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
