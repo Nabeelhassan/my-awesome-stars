@@ -285,6 +285,7 @@
 
 ## TypeScript 
 
+- [tzmanics/scully-template-project](https://github.com/tzmanics/scully-template-project) - ʕ·͡ˑ·ཻʔ A template for your Angular 12 + Scully apps that can be deployed to Netlify with ease, wooo hoooo!
 - [seanwu1105/ionic-pwa-example-moment](https://github.com/seanwu1105/ionic-pwa-example-moment) - A sample camera app implemented with PWA and Ionic 5.
 - [nartc/ng-conduit](https://github.com/nartc/ng-conduit) - Realworld Conduit frontend application with Angular Standalone Components
 - [DonJayamanne/typescript-notebook](https://github.com/DonJayamanne/typescript-notebook) - Run JavaScript and TypeScript in node.js within VS Code notebooks with excellent support for debugging, tensorflowjs visulizations, plotly, danfojs, etc
