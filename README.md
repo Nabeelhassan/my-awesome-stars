@@ -188,6 +188,7 @@
 
 ## Others 
 
+- [Engagespot/heroku-free-alternatives](https://github.com/Engagespot/heroku-free-alternatives) - Free tier of Heroku Dynos, Postgres and Data for Redis will no longer be available after November 28, 2022. Let's find a list of services with a free plan that developers can use as an alternative to 
 - [ahmedtariq01/Cloud-DevOps-Learning-Resources](https://github.com/ahmedtariq01/Cloud-DevOps-Learning-Resources) - This repo includes Books and imp notes related to GCP, Azure, AWS, Docker, K8s, and DevOps. More, exam and interview prep notes.
 - [mgechev/angular-performance-checklist](https://github.com/mgechev/angular-performance-checklist) - ⚡ Cheatsheet for developing lightning fast progressive Angular applications
 - [SMIT-Saylani/Modern-App-Api-Dev](https://github.com/SMIT-Saylani/Modern-App-Api-Dev) - Learn to Build Modern Full Stack Serverless Multi-Tenant SaaS Apps and APIs
