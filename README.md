@@ -6,6 +6,7 @@
 ## Contents
 
 - [C](#c)
+- [C#](#c#)
 - [C++](#c++)
 - [CSS](#css)
 - [CoffeeScript](#coffeescript)
@@ -35,6 +36,10 @@
 ## C 
 
 - [netdata/netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud
+
+## C# # 
+
+- [Tyrrrz/YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) - Downloads videos and playlists from YouTube
 
 ## C++ 
 
@@ -74,6 +79,7 @@
 
 ## HTML 
 
+- [rugk/offline-qr-code](https://github.com/rugk/offline-qr-code) - 📱 Browser add-on allowing you to quickly generate a QR code offline with the URL of the open tab or other text!
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 - [airbnb/lottie](https://github.com/airbnb/lottie) - Lottie documentation for http://airbnb.io/lottie
 - [creativetimofficial/notus-angular](https://github.com/creativetimofficial/notus-angular) - Notus Angular: Free Tailwind CSS UI Kit and Admin
@@ -94,6 +100,7 @@
 
 ## JavaScript 
 
+- [bbc/peaks.js](https://github.com/bbc/peaks.js) - JavaScript UI component for interacting with audio waveforms
 - [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies (jobs) in tech.
 - [mgechev/tiny-compiler](https://github.com/mgechev/tiny-compiler) - A tiny evaluator and compiler of arithmetic expressions.
 - [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐 A lightweight Node.js private proxy registry
