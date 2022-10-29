@@ -283,6 +283,7 @@
 
 ## Svelte 
 
+- [simeydotme/pokemon-cards-css](https://github.com/simeydotme/pokemon-cards-css) - A collection of advanced CSS styles to create realistic-looking effects for the faces of Pokemon cards.
 - [open-source-labs/Svelvet](https://github.com/open-source-labs/Svelvet) - A lightweight Svelte component library for building interactive node-based flow diagrams
 - [Rich-Harris/sveltekit-on-the-edge](https://github.com/Rich-Harris/sveltekit-on-the-edge) - SvelteKit, running on the edge
 - [itswadesh/svelte-commerce](https://github.com/itswadesh/svelte-commerce) - Svelte ecommerce - Headless, Authentication, Cart & Checkout, TailwindCSS, Server Rendered, Proxy + API Integrated, Animations, Stores, Lazy Loading, Loading Indicators, Carousel, Instant Search, Face
@@ -321,7 +322,7 @@
 - [PacktPublishing/Angular-Cookbook](https://github.com/PacktPublishing/Angular-Cookbook) - Angular Cookbook, published by Packt
 - [PacktPublishing/TypeScript-4-Design-Patterns-and-Best-Practices](https://github.com/PacktPublishing/TypeScript-4-Design-Patterns-and-Best-Practices) - TypeScript 4 Design Patterns and Best Practices, published by Packt
 - [PacktPublishing/Angular-Projects-Second-Edition](https://github.com/PacktPublishing/Angular-Projects-Second-Edition) - Angular Projects - Second Edition, published by Packt
-- [Hubertformin/electron-pos-printer](https://github.com/Hubertformin/electron-pos-printer) - Electron 58mm thermal printer
+- [Hubertformin/electron-pos-printer](https://github.com/Hubertformin/electron-pos-printer) - Electron 58mm - 80mm thermal printer
 - [LalanaChami/Pharmacy-Mangment-System](https://github.com/LalanaChami/Pharmacy-Mangment-System) - 👨‍💻 :hospital: MEAN stack Pharmacy Management system.
 - [song940/node-escpos](https://github.com/song940/node-escpos) - 🖨️ ESC/POS Printer driver for Node.js
 - [kgotgit/ng-beehive-monorepo](https://github.com/kgotgit/ng-beehive-monorepo) - This project used for medium article to setup angular workspace with multiple sub-projects
